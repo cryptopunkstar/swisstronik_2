@@ -1,2 +1,2 @@
 # swisstronik_2
-ERC-721
+ERC-20
